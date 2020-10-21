@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ccp/homework/header.cpp
+iostream
+-
+header.h
+/home/ccp/homework/header.h
+
+/home/ccp/homework/header.h
+

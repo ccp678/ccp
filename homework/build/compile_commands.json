@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ccp/homework/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/homework.dir/main.cpp.o -c /home/ccp/homework/main.cpp",
+  "file": "/home/ccp/homework/main.cpp"
+}
+]
