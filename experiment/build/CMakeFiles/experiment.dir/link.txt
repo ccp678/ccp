@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/experiment.dir/main.cpp.o  -o experiment 
