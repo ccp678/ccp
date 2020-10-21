@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ACM.dir/main.cpp.o  -o ACM 

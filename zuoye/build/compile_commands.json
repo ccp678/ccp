@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ccp/zuoye/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7    -g   -std=c++1z -o CMakeFiles/zuoye.dir/main.cpp.o -c /home/ccp/zuoye/main.cpp",
+  "file": "/home/ccp/zuoye/main.cpp"
+}
+]

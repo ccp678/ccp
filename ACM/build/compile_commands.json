@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ccp/ACM/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/ACM.dir/main.cpp.o -c /home/ccp/ACM/main.cpp",
+  "file": "/home/ccp/ACM/main.cpp"
+}
+]
